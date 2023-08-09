@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/movarian-benign-neoplasm-of-ovary---primary.py
+inputModule3:
+  class: File
+  path: python/cystic-benign-neoplasm-of-ovary---primary.py
+inputModule4:
+  class: File
+  path: python/benign---primary.py
+inputModule5:
+  class: File
+  path: python/benign-neoplasm-of-ovary---primary.py
+inputModule6:
+  class: File
+  path: python/serous-benign-neoplasm-of-ovary---primary.py
+inputModule7:
+  class: File
+  path: python/benign-neoplasm-of-ovary-unspecified---primary.py
+inputModule8:
+  class: File
+  path: python/other-benign-neoplasm-of-ovary---primary.py
+inputModule9:
+  class: File
+  path: python/benign-neoplasm-of-ovary---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
